@@ -1,120 +1,122 @@
-# 👋 Hi, I'm Rully Saputra
+# Rully Saputra
 
-Mid Software Engineer | AI Context Engineer | Verified Workflow Creator at n8n | Top 10 Mentor at Adplist.org
-🚀 Building scalable web apps, automation workflows, and AI-integrated tools
+**Software Engineer | AI Context Engineer | Verified Workflow Creator at n8n | Top 10 Mentor at Adplist.org**
 
-🔗 **Portfolio:** [https://portfolio.rullysaputra.com/](https://portfolio.rullysaputra.com/)
-💼 **LinkedIn:** [https://www.linkedin.com/in/rully-saputra-7554a7138/](https://www.linkedin.com/in/rully-saputra-7554a7138/)
-✍️ **Medium:** [https://medium.com/@rully.saputra4](https://medium.com/@rully.saputra4)
-
----
-
-## 🧠 About Me
-
-* 🔭 Currently working on **Next.js, Bun, and AI-driven workflows**
-* 🧰 Creator of starter kits & developer tooling to speed up project setup
-* 🤖 Building **n8n automations** and AI-powered developer workflows
-* 🧑‍🏫 Passionate about mentoring & teaching JavaScript
-* 📱 Experienced in **web & hybrid mobile development**
-* 🧪 Love creating **developer-friendly utilities & templates**
+📍 Indonesia (Remote Ready) </br>
+💼 LinkedIn: [https://www.linkedin.com/in/rully-saputra-7554a7138/](https://www.linkedin.com/in/rully-saputra-7554a7138/) </br>
+✍️ Medium: [https://medium.com/@rully.saputra4](https://medium.com/@rully.saputra4)
 
 ---
 
-## ⚙️ Tech Stack
+## 👨‍💻 Professional Summary
+
+Software Engineer focused on building **scalable, production-grade web applications** and **AI-powered automation systems**.
+
+* ⚡ Performance, clean architecture, and DX driven
+* 🧠 Expert in **Next.js, TypeScript, Node.js, MongoDB/PostgreSQL**
+* 🤖 Creator of **AI + n8n workflow automations** used for real-world productivity
+* 🧑‍🏫 JavaScript instructor mentoring developers in production best practices
+* 🛠️ Builder of reusable tooling that accelerates team delivery
+
+---
+
+## 🧾 Key Impact
+
+* 🚀 Built **SSR Next.js apps** with strong SEO and performance optimization
+* ⚡ Developed **team-ready starter architectures** with linting, git hooks, and scalable structure → faster onboarding
+* 🤖 Delivered **12+ AI automation workflows** (bug triage, SEO monitoring, research summarization, job matching)
+* 🧩 Created reusable **React utilities** improving maintainability and readability
+* 🧑‍🏫 Mentored engineers on **architecture, performance, and clean code**
+
+---
+
+## 🏗️ Core Technical Skills
 
 **Frontend**
-`React` `Next.js` `TypeScript` `Tailwind` `Vite`
+Next.js • React • TypeScript • Tailwind • Vite • SSR/CSR optimization
 
 **Backend**
-`Node.js` `Express` `REST API` `MongoDB` `PostgreSQL`
+Python • Node.js • Express • REST API • MongoDB • PostgreSQL
 
-**Dev & Tooling**
-`Bun` `ESLint` `Husky` `Airbnb Style Guide` `Turborepo`
+**Architecture & DX**
+Modular architecture • Monorepo (Turborepo) • ESLint (Airbnb) • Husky • Bun runtime
 
 **Automation & AI**
-`n8n` `Gemini` `RAG` `Workflow Automation` `MCP`
+n8n • RAG pipelines • MCP servers • AI workflow orchestration
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
+
+### 🧠 Interviewin — AI Interview Preparation Platform
+
+AI-powered system for generating interview questions, evaluating answers, and providing feedback.
+Focus: prompt design, structured evaluation pipelines, and scalable API integration.
+
+### 💬 Convo — AI Conversation & RAG Playground
+
+Experimental platform for building conversational AI with **RAG**, context management, and modular prompts.
+Focus: retrieval pipelines, memory handling, and developer-friendly architecture.
+
+### 🌐 Next.js SSR Portfolio
+
+Production-grade personal portfolio with performance optimization, modern routing, and SEO best practices.
 
 ### 🧩 React Render Helper
 
-Minimalist utility for elegant conditional rendering in React
-⭐ Clean, simple, and type-safe
+Type-safe utility for clean conditional rendering patterns in React codebases.
 
-### 🌐 Next.js Portfolio (SSR)
+### 🏗️ Production-Ready Next.js Architecture Starter
 
-My personal portfolio built with **Next.js** and modern best practices
+Enterprise-style foundation including:
 
-### ⚡ Next 14 + Bun Starter
+* Type-safe modular structure
+* Pre-commit quality gates (ESLint + Husky)
+* Scalable folder conventions
+  ➡️ Designed to reduce setup time and enforce code quality across teams
 
-Production-ready starter with:
+### 🤖 AI Automation Workflows (n8n)
 
-* Husky pre-commit hooks
-* ESLint (Airbnb rules)
-* TypeScript setup
-* Optimized dev workflow
+Automations for:
 
-### 🤖 MCP TypeScript Starter Kit
-
-Starter template for building **Model Context Protocol servers**
-Supports **HTTP/SSE + stdio transports** for AI integrations
-
----
-
-## 🤖 Automation Work
-
-I build **AI-powered n8n workflows** for:
-
-* 📊 SEO monitoring & web vitals tracking
-* 🧾 AI bug triage from GitHub issues
-* 🧠 Research paper summarization
-* 🤖 Job matching & data pipelines
-* 📈 Sales insights automation
-
-➡️ 12+ published workflow templates
+* GitHub issue triage with AI
+* SEO & web vitals monitoring
+* Research summarization pipelines
+* Data-driven job matching
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Rully's GitHub stats](https://github-readme-stats.vercel.app/api?username=rully-saputra15\&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rully-saputra15\&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rully-saputra15&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=rully-saputra15&langs_count=4) </br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rully-saputra15&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=rully-saputra15&rank_icon=github&include_all_commits=true)
 
 ---
 
-## 🧑‍🏫 Mentoring & Teaching
+## 🧑‍🏫 Leadership & Mentoring
 
 * JavaScript & React mentor
-* Help developers improve **architecture, performance, and DX**
-* Focus on **real-world production patterns**
+* Teach **production patterns**, not tutorials
+* Help engineers ship **scalable, maintainable systems**
 
 ---
 
-## 📝 Latest Writing
+## 🎯 What I’m Looking For
 
-* React + Vite + TypeScript UX optimizations
-* Developer tooling & workflow automation
-* Practical AI for engineers
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:
-
-* Open source collaboration
-* AI + Dev tooling projects
-* Mentoring & technical discussions
-* Automation & workflow consulting
-
-📫 Reach me on **LinkedIn** or through my **portfolio**
+* Frontend / Fullstack Engineer roles
+* Remote or distributed teams
+* Products involving **Next.js, TypeScript, AI, or developer tooling**
+* Opportunities to contribute to **architecture, performance, and DX**
 
 ---
 
-⭐ *“Build tools that make developers faster.”*
+## 📫 Contact
+
+* LinkedIn: [https://www.linkedin.com/in/rully-saputra-7554a7138/](https://www.linkedin.com/in/rully-saputra-7554a7138/)
+* Portfolio: [https://portfolio.rullysaputra.com/](https://portfolio.rullysaputra.com/)
 
 ---
 
-[1]: https://github.com/rully-saputra15?utm_source=chatgpt.com "Rully Saputra rully-saputra15 - GitHub"
+⭐ **Strengths:** Performance • Clean Architecture • AI Workflows • Developer Experience • Mentoring
+
+---
