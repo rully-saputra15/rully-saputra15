@@ -1,4 +1,4 @@
-# Rully Saputra
+# 👋 Hi, I'm Rully Saputra
 
 **Software Engineer | AI Context Engineer | Verified Workflow Creator at n8n | Top 10 Mentor at Adplist.org**
 
