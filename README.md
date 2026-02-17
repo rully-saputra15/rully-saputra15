@@ -105,7 +105,7 @@ Automations for:
 
 * Frontend / Fullstack Engineer roles
 * Remote or distributed teams
-* Products involving **Next.js, TypeScript, AI, or developer tooling**
+* Products involving **Web Development & AI**
 * Opportunities to contribute to **architecture, performance, and DX**
 
 ---
