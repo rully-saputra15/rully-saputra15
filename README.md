@@ -3,7 +3,7 @@
 **Software Engineer | AI Context Engineer | Verified Workflow Creator at n8n | Top 10 Mentor at Adplist.org**
 
 📍 Indonesia (Remote Ready) </br>
-💼 LinkedIn: [https://www.linkedin.com/in/rully-saputra-7554a7138/](https://www.linkedin.com/in/rully-saputra-7554a7138/) </br>
+💼 LinkedIn: [https://www.linkedin.com/in/rully-saputra](https://www.linkedin.com/in/rully-saputra) </br>
 ✍️ Medium: [https://medium.com/@rully.saputra4](https://medium.com/@rully.saputra4)
 
 ---
