@@ -86,13 +86,6 @@ Automations for:
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rully-saputra15&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=rully-saputra15&langs_count=4) </br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rully-saputra15&rank_icon=github&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=rully-saputra15&rank_icon=github&include_all_commits=true)
-
----
-
 ## 🧑‍🏫 Leadership & Mentoring
 
 * JavaScript & React mentor
@@ -112,7 +105,7 @@ Automations for:
 
 ## 📫 Contact
 
-* LinkedIn: [https://www.linkedin.com/in/rully-saputra-7554a7138/](https://www.linkedin.com/in/rully-saputra-7554a7138/)
+* LinkedIn: [https://www.linkedin.com/in/rully-saputra](https://www.linkedin.com/in/rully-saputra/)
 * Portfolio: [https://portfolio.rullysaputra.com/](https://portfolio.rullysaputra.com/)
 
 ---
